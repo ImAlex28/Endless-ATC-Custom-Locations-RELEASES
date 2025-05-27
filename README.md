@@ -1,1 +1,11 @@
-# Endless-ATC-Custom-Locations-RELEASES
+# Endless-ATC-custom-locations
+Custom locations for Endless ATC software for Linux/Windows/Mac and Android/iOS
+
+# SECTORS AVAILABLE
+## LECB
+- LECLAAP (LEAL, LEMI, LELC) [STATUS: UPDATED AIRAC 2306] (LELC NOT INCLUDED ON THIS BUILD)
+- LECPIXX (LEIB) [STATUS: UPDATED AIRAC 2401]
+
+## LECM
+- LECGAPP (LEST, LECO, LEVX) [STATUS: UPDATED AIRAC 2306]
+
